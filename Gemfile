@@ -39,6 +39,7 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+# gem "omniauth-coub" , '0.0.2'
 gem "omniauth-coub"
 
 gem "faraday"
